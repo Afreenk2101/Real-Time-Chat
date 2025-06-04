@@ -75,3 +75,7 @@ Emojis and file/image sharing support
 Conclusion :
 
 The Real-Time Chat Application is a strong demonstration of using modern frontend technologies with real-time capabilities. It not only delivers fast and smooth communication but also serves as a solid foundation for building more complex communication tools like collaborative platforms, support chat systems, or social messaging apps.
+
+**OUTPUT :**
+
+![Image](https://github.com/user-attachments/assets/6f48186d-2546-4690-8e6d-0842ae113b87)
